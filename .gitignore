@@ -1,0 +1,8 @@
+# Local Data
+data/
+temp_files/
+bot.log
+
+# Secrets
+.env
+__pycache__/
