@@ -95,7 +95,7 @@ soul-codespace-manager/
 ### Clone the Repository
 
 ```bash
-git clone https://soulcrack-spoofs-admin@bitbucket.org/soulcrack-spoofs/soul-codespace-manager.git
+git clone https://github.com/vikrant-project/soul-codespace-manager
 cd soul-codespace-manager
 ```
 
